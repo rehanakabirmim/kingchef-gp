@@ -71,7 +71,8 @@
 
 <div class="content">
     <h3>Best pizza in Dhaka</h3>
-    <p>There's a reason pizza is so popular. Humans are drawn to foods that are fatty, sweet, rich and complex. Pizza has all of these components. Cheese is fatty, meat toppings tend to be rich and the sauce is sweet.</p>
+    <p>"Savor the finest slices in Kingchef,Dhaka – where every pizza is crafted to perfection for a taste that keeps you coming back!"</p>
+
 </div>
 
 <div class="image">
