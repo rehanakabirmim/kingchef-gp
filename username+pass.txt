@@ -1,0 +1,4 @@
+open route:http://localhost/kingchef-gp/
+
+username:admin
+pass:12345678
