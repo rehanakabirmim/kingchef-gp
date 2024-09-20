@@ -2,3 +2,5 @@ open route:http://localhost/kingchef-gp/
 
 username:admin
 pass:12345678
+
+git push cmnd:git push origin HEAD:main
